@@ -17,4 +17,9 @@ Tank movement is now completely functional.
 
 ![move](https://user-images.githubusercontent.com/22569153/125558399-0cdcc371-688f-4b97-8955-2f51d42b7d0a.gif)
 
+## Update #4
+Tank turret can now rotate.
+
+![turr_rot](https://user-images.githubusercontent.com/22569153/125559013-1ec4ebce-9b42-4958-bf55-add9a611a244.gif)
+
 
