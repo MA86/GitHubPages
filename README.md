@@ -3,12 +3,12 @@
 Below I will be posting periodic updates on progress building this game. I will post short video clips and other information about the latest developments.  
 
 ## Update #1
-Implemented basic forward and backward movement. I will improve this by adding unique movement mechanics in the future.
+Implemented basic forward and backward movement. I will improve this further by adding unique movement mechanics in the future.
 
 ![forward_backward](https://user-images.githubusercontent.com/22569153/125556230-15b26343-25dd-4f58-bd36-7db463c46b55.gif)
 
 ## Update #2
-Implemented turning ability. As mentioned above, a better movement mechanic would drastically improve the gaming experience. Better game mechanics are currently in the `TODO` list in the future. 
+Implemented turning ability. As mentioned above, a better movement mechanic would drastically improve the gaming experience. Better game mechanics are currently in my `TODO` list for the future. 
 
 ![rotation](https://user-images.githubusercontent.com/22569153/125557500-10d98679-1fa3-47e4-b5c8-9886950be3ab.gif)
 
