@@ -38,7 +38,7 @@ To make this work, I have implemented a server program that all client programs 
 
 As you can see below, there are two players using two different browsers (by the way, there can be *more* than just two players). Disregarding where the players are located physically, each player can see each other, move around each other, and share the same world, as long as they are connected to the internet. In other words, the prototype for multiplayer feature is now complete.
 
-![clients_joining](https://user-images.githubusercontent.com/22569153/126854003-5d483857-2b8e-4652-8b0e-ae3bd98cd8d8.gif)
+
 
 
 
