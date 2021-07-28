@@ -39,3 +39,17 @@ To make this work, I have implemented a server program that all client programs 
 As you can see below, there are two players using two different browsers (by the way, there can be *more* than just two players). Disregarding where the players are located physically, each player can see each other, move around each other, and share the same world, as long as they are connected to the internet.
 
 ![clients_join](https://user-images.githubusercontent.com/22569153/126854444-6949aa46-2227-42c4-a010-def56f1ba0a3.gif)
+
+## Update #7
+When a player leaves the game, every other player knows. 
+
+In the video clip below, player on the right leaves the server. This can be visually seen on the left.
+
+![client_leaves](https://user-images.githubusercontent.com/22569153/127248533-84889e7a-ad28-4f6c-8a07-a829544b5864.gif)
+
+## Update #8
+Players are informed when the server crashes.
+
+![server_shuts](https://user-images.githubusercontent.com/22569153/127248722-ef60ae27-3edf-4d72-b302-fa330c42f989.gif)
+
+
