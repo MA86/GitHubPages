@@ -48,7 +48,7 @@ In the video clip below, player on the right leaves the server. This can be visu
 ![client_leaves](https://user-images.githubusercontent.com/22569153/127248533-84889e7a-ad28-4f6c-8a07-a829544b5864.gif)
 
 ## Update #8
-Players are informed when the server crashes.
+Players are informed when the server crashes. I pressed `Ctrl C` on the server program to simulate server shuting down.
 
 ![server_shuts](https://user-images.githubusercontent.com/22569153/127248722-ef60ae27-3edf-4d72-b302-fa330c42f989.gif)
 
