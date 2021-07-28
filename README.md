@@ -8,7 +8,7 @@ I am *not* going to be using any kind of game engine for this project. My plan i
 - Canvas
 - Socket.io
 - Express
-----------------------------------------------------------------------------
+
 ## Update #1
 Implemented basic forward and backward movement. I will improve this further by adding unique movement mechanics in the future.
 
