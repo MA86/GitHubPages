@@ -2,12 +2,13 @@
 
 Below I will be posting periodic updates on my progress building this game. I will post short video clips and other information about the latest developments.  
 
-I am *not* going to be using any kind of game engine for this project. My plan is to use various libraries as needed. Up to this point, the languages/libraries that I have used to build this game are the following: 
+My plan is to use various libraries as needed. Up to this point, the languages/libraries that I have used to build this game are the following: 
 - JavaScript
 - HTML
 - Canvas
 - Socket.io
 - Express
+- Matter.js
 
 ## Update #1
 Implemented basic forward and backward movement. I will improve this further by adding unique movement mechanics in the future.
