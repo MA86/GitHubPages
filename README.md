@@ -60,4 +60,8 @@ Players are informed when the server crashes. I pressed `Ctrl C` on the server p
 
 ![server_shuts](https://user-images.githubusercontent.com/22569153/127248722-ef60ae27-3edf-4d72-b302-fa330c42f989.gif)
 
+## Update #9
+For this update, I used a physics library called `Matter.js` to add physics to this game. It was not an easy task to integrate physics into my existing code, but recently I have been making progress. Unfortunately, I had to break the multiplayer capability for now. Going forward, I will have to figure out a way to add physics for the turret as well. Once this task is complete, I will re-implement multiplayer capability. `Matter.js` provides a powerful and realistic physics, as can be seen in the video below.
+
+![physics](https://user-images.githubusercontent.com/22569153/130541710-415e285a-edd5-4641-bce6-0745782808dd.gif)
 
