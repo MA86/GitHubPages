@@ -65,3 +65,6 @@ For this update, I used a physics library called `Matter.js` to introduce physic
 
 ![physics](https://user-images.githubusercontent.com/22569153/130541710-415e285a-edd5-4641-bce6-0745782808dd.gif)
 
+## Update #10
+I have run into an issue while integrating `Matter.js` physics library. The physics body for the turret goes through other bodies once in a while. In other words, when the turret collides with another object, sometimes no collision happens, the turret goes right through the other object as if the object is not there. This is a problem with `Matter.js` library. I'm currently trying to fix this issue.  
+
