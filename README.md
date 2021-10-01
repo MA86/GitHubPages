@@ -68,3 +68,12 @@ For this update, I used a physics library called `Matter.js` to introduce physic
 ## Update #10
 I have run into an issue while integrating `Matter.js` physics library. The physics body for the turret goes through other bodies once in a while. In other words, when the turret collides with another object, sometimes no collision happens, the turret goes right through the other object as if the object is not there. This is a problem with `Matter.js` library. I'm currently trying to fix this issue.  
 
+## Update #11
+I have successfully added physics and brought back the multiplayer feature. Below you can see two players, playing this game online, using two different browsers. Notice how the world is seamlessly shared between the two players.
+
+Regarding the issue I wrote about in Update #9, I do not think it is possible to fix this issue. For now, I will turn off the physics for the turret. Many mainstream games also lack physics for tank turrets.
+
+Unfortunately, I have run into another issue. Whenever a browser is minimized, the browser cuts off communication with the server. I suspect this is a security feature of the browser. Going forward, I will have to research a solution for this.
+
+![phys_online](https://user-images.githubusercontent.com/22569153/135555226-5f9b5d3c-4c9c-4730-98fe-050aa4dafd94.gif)
+
