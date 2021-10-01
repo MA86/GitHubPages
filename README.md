@@ -71,7 +71,7 @@ I have run into an issue while integrating `Matter.js` physics library. The phys
 ## Update #11
 I have successfully added physics and brought back the multiplayer feature. Below you can see two players, playing this game online, using two different browsers. Notice how the world is seamlessly shared between the two players.
 
-Regarding the issue I wrote about in Update #9, I do not think it is possible to fix this issue. For now, I will turn off the physics for the turret. Many mainstream games also lack physics for tank turrets.
+Regarding the issue I wrote about in Update #10, I do not think it is possible to fix this issue. For now, I will turn off the physics for the turret. Many mainstream games also lack physics for tank turrets.
 
 Unfortunately, I have run into another issue. Whenever a browser is minimized, the browser cuts off communication with the server. I suspect this is a security feature of the browser. Going forward, I will have to research a solution for this.
 
