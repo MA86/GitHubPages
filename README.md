@@ -77,3 +77,10 @@ Unfortunately, I have run into another issue. Whenever a browser is minimized, t
 
 ![phys_online](https://user-images.githubusercontent.com/22569153/135555226-5f9b5d3c-4c9c-4730-98fe-050aa4dafd94.gif)
 
+## Update #12
+For this update, I've created prototype for a shell which can be fired from the turret. Notice how the fired shell ricochet at the target tank. I'm still deciding whether to keep ricochet feature or not. 
+
+Fire and impact animations will be added later.
+
+![shellFire](https://user-images.githubusercontent.com/22569153/139781833-fe8929ff-9d4e-4211-9aee-6c685c0c87ab.gif)
+
