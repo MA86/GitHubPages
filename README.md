@@ -87,4 +87,4 @@ Fire and impact animations will be added later.
 ## Update #13
 My current client-server architecture is code heavy on the client side. If you've been reading my previous updates, you've probably noticed that I have been having some issues. If I keep this architecture, I will be facing more issues in the future. This means that I will have to put more effort into 'synching' clients because every client runs a simulation of thier own. 
 
-So, for this reason, I have decided to change my client-server architecture completely. For the next few days, I will be moving code from the client-side to the server-side to create a *light client and heavy server* type of architecture. I'm not entirely sure this will work out, but I will give it a try anyways. 
+So, for this reason, I have decided to change my client-server architecture completely. In the next few days, I will be moving code from the client-side to the server-side to create a *light client and heavy server* type of architecture. I'm not entirely sure this will work out, but I will give it a try anyways. 
