@@ -88,3 +88,8 @@ Fire and impact animations will be added later.
 My current client-server architecture is code heavy on the client side. If you've been reading my previous updates, you've probably noticed that I have been having some issues. If I keep this architecture, I will be facing more issues in the future. This means that I will have to put more effort into 'synching' clients because every client runs a simulation of thier own. 
 
 So, for this reason, I have decided to change my client-server architecture completely. In the next few days, I will be moving code from the client-side to the server-side to create a *light client and heavy server* type of architecture. I'm not entirely sure this will work out, but I will give it a try anyways. 
+
+## Update #14
+I've completed the task above. Physics engine is now moved to the server side. Client side renders game objects and takes input from the user, for the most part. Server side will be doing the rest. So, I've successfully changed my architecture strategy to an authoritative server and thin client. This strategy is working out really well so far.
+
+Next, I will be working on shell collision. Once complete, I will provide a video demonstration.
