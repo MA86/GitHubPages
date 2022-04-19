@@ -92,4 +92,10 @@ So, for this reason, I have decided to change my client-server architecture comp
 ## Update #14
 I've completed the task above. Physics engine is now moved to the server side. Client side renders game objects and takes input from the user, for the most part. Server side will be doing the rest. So, I've successfully changed my architecture strategy to an authoritative server and thin client. This strategy is working out really well so far.
 
-Next, I will be working on shell collision. Once complete, I will provide a video demonstration.
+Next, I will be working on animation in general. Once complete, I will provide a video demonstration.
+
+## Update #15
+Created an animation system that can be used to animate various spritesheets needed for the game. As can be seen below, upon impact a shell switches from *airborne* animation to *hit* animation.
+
+![hit](https://user-images.githubusercontent.com/22569153/163895088-867988a1-6ea1-46d4-97ac-f02da801c7ba.gif)
+
