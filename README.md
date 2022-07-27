@@ -104,3 +104,8 @@ For this update, I have added track tread marks for the tank and also started wo
 
 ![tread_marks](https://user-images.githubusercontent.com/22569153/166345202-4fd091ae-87cf-4511-9263-49580d6a638d.gif)
 
+## Update #17
+I figured out how *lerping* movement works, and I applied it to forward, backward and rotation so far. I've also made it possible so that when a player is destroyed, he is able to see the rest of players and other happenings in the map. In other wrods, when a player tank is destroyed, he can no longer affect the game, but he is able to continue as a spectator.
+
+In addition to above, I discovered and corrected some major bugs.
+
